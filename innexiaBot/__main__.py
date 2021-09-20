@@ -75,25 +75,25 @@ def get_readable_time(seconds: int) -> str:
 INNEXIA_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
 
 PM_START_TEXT = """
-`ʜᴇʟʟᴏ` 🤗 `ɪ ᴀᴍ` [ꜰʟᴏʀᴇɴᴢᴀ](https://telegra.ph/file/16bf7f2e7ca1543cb7694.jpg) ` ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ`
+`ʜᴇʟʟᴏ` 🤗 `ɪ ᴀᴍ` [Doreamon](https://telegra.ph/file/253bde1d07b5b6f04dc70.jpg) ` ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ`
 `ɪ ᴀᴍ ᴠᴇʀʏ ꜰᴀꜱᴛ ᴀɴᴅ  ᴍᴏʀᴇ ᴇꜰꜰɪᴄɪᴇɴᴛ  ɪ ᴘʀᴏᴠɪᴅᴇ ᴀᴡᴇꜱᴏᴍᴇ  ꜰᴇᴀᴛᴜʀᴇꜱ ᴡʜɪᴄʜ ᴀ ᴏᴡɴᴇʀ ᴡɪʟʟ ʟᴏᴏᴋ ꜰᴏʀ  ꜰɪʟᴛᴇʀ ,ᴡᴀʀɴ ꜱʏꜱᴛᴇᴍ,ꜱᴀᴠᴇ ɴᴏᴛᴇꜱ, ꜰʟᴏᴏᴅ, ʙᴀɴ ᴀɴᴅ ᴍᴏʀᴇ!`
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="💕 ᴀᴅᴅ ꜰʟᴏʀᴇɴᴢᴀ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ", url="http://t.me/Florenza_bot?startgroup=true"),
+            text="💕 ᴀᴅᴅ Doreamon ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ", url="http://t.me/Florenza_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="🔥ᴅᴇᴠꜱ", url=f"https://t.me/Florenza_Dev"),
+        InlineKeyboardButton(text="🔥ᴅᴇᴠꜱ", url=f"https://t.me/left_tg_1"),
         InlineKeyboardButton(
-            text="ᴠᴄ ᴘʟᴀʏᴇʀ", url=f"https://telegra.ph/𝗕ooo-09-17-2"
+            text="ᴠᴄ ᴘʟᴀʏᴇʀ", url=f"https://telegra.ph/Doreamon-Bot-09-10"
         ),
     ],
     [
-        InlineKeyboardButton(text="⚡ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/Florenza_support"),
+        InlineKeyboardButton(text="⚡ ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/phoenix_music_suportt"),
         InlineKeyboardButton(
-            text="ᴜᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/Florenza_updates"
+            text="ᴜᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/phoenix_music_new"
         ),
     ],
     [
